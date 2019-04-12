@@ -1,4 +1,3 @@
-bundles: "auto"
 report:
   pullRequest: 
     findings: "onAllFiles"
